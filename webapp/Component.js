@@ -12,5 +12,5 @@ sap.ui.component.load({
 this.hcm.fab.myleaverequest.Component.extend("hcm.fab.myleaverequest.HCMFAB_LEAV_MANExtension.Component", {
 	metadata: {
 		manifest: "json"
-	}
+	}   
 });
